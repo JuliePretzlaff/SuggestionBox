@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggestionBoxMVC", "SuggestionBoxMVC\SuggestionBoxMVC.csproj", "{8060D794-D337-47D4-9D47-DFE85BDF32ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8060D794-D337-47D4-9D47-DFE85BDF32ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8060D794-D337-47D4-9D47-DFE85BDF32ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8060D794-D337-47D4-9D47-DFE85BDF32ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8060D794-D337-47D4-9D47-DFE85BDF32ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0017924-CF78-4628-AFED-A3A60DC0AF76}
+	EndGlobalSection
+EndGlobal
